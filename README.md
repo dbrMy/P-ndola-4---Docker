@@ -9,7 +9,8 @@
 - Exposición innecesaria de puertos como 22 (SSH) y 3306 (MySQL), facilitando ataques remotos.
 
 **LINK repositorio DockerHub de nuestra imagen.** [https://hub.docker.com/repository/docker/a22brycanmar/ngnxx/general](url)
-_docker push a22brycanmar/ngnxx:tagname_
+
+_docker pull a22brycanmar/ngnxx:latest_
 
 **MEJORAS A IMPLEMENTAR
 **
