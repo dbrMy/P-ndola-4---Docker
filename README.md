@@ -8,6 +8,7 @@ Repositorio del Grupo 4 de Píndolas M16 CIberseguridad
 - Deslimita el tamaño en requests, lo que deja expuesto a ataques DoS.
 - Exposición innecesaria de puertos como 22 (SSH) y 3306 (MySQL), facilitando ataques remotos.
 
+[https://hub.docker.com/repository/docker/a22brycanmar/ngnxx/general](url)
 
 MEJORAS A IMPLEMENTAR
 
