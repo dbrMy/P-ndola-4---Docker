@@ -18,4 +18,5 @@ Exposición a riesgos de seguridad:
 Este ataque es una forma simple pero efectiva de mostrar cómo un atacante puede manipular una imagen Docker e inyectar código malicioso. Aunque el ataque aquí es solo un mensaje intimidatorio, en un escenario real, este podría evolucionar para ejecutar comandos más peligrosos, robar información o permitir acceso remoto al sistema comprometido.
 
 **DOCKER PULL **
+
 docker pull niko2005/ngnxx:latest
