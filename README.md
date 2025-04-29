@@ -1,4 +1,4 @@
-## Docker Supply Chain Attack Demo
+## Pindola 4 - Alejandro Upegui Carvajal - Frank Garcia Nebot
 
 Este repositorio contiene una práctica de seguridad enfocada en demostrar cómo un atacante puede comprometer la cadena de suministro de software a través de imágenes Docker manipuladas. El trabajo se divide en dos fases: un Proof of Concept (PoC) sencillo y un escenario avanzado con múltiples vulnerabilidades reales.
 
